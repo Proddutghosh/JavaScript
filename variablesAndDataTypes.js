@@ -14,3 +14,8 @@ console.log(job);
 
 job = "Teacher";
 console.log(job);
+
+// Variable naming rules
+
+var _3years = 3;
+var johnMark = 'John and MArk';

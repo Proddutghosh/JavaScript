@@ -20,6 +20,6 @@ console.log(job);
 
 var _3years = 3;
 var johnMark = 'John and MArk';
-
+//var 2sum = 5+5; // error beacause variable doesn't start with number
 //var if = 23; // it doesn't exits because if is reserved keyword
  

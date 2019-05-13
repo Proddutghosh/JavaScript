@@ -19,4 +19,4 @@ console.log(job);
 
 var _3years = 3;
 var johnMark = 'John and MArk';
-var if = 23; // it doesn't exits because if is reserved variable
+//var if = 23; // it doesn't exits because if is reserved variable

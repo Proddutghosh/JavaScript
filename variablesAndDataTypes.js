@@ -1,3 +1,5 @@
+// Data types
+
 var firstName = "John";
 console.log(firstName);
 

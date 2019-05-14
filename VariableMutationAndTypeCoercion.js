@@ -19,7 +19,7 @@ console.log(
 
 // Variable mutation
 age = "twenty eight";
-job = "driver";
+job = "developer";
 alert(
   firstName +
     " is a " +

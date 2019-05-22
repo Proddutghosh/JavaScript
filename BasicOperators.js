@@ -21,3 +21,7 @@ console.log(johnOlder);
 console.log(typeof johnOlder);
 console.log(typeof ageJohn);
 
+console.log(typeof 'Mark is older tha John');
+var x;
+console.log(typeof x);
+

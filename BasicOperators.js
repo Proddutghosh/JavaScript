@@ -12,3 +12,7 @@ console.log(yearJohn);
 console.log(now + 2);
 console.log(now * 2);
 console.log(now / 10);
+
+
+var johnOlder = ageJohn < ageMark;
+console.log(johnOlder);

@@ -14,5 +14,5 @@ console.log(average);
 
 // Multiple assignments
 var x, y;
-x = y = (3 + 5) * 4 - 6;  // 8 * 4 - 6 // 32 - 6 // 26
+x = y = (3 + 5) * 4 - 6; // 8 * 4 - 6 // 32 - 6 // 26
 console.log(x, y);

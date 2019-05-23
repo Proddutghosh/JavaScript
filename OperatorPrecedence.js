@@ -18,7 +18,7 @@ x = y = (3 + 5) * 4 - 6; // 8 * 4 - 6 // 32 - 6 // 26
 console.log(x, y);
 
 // More operators
-x *= 2;  // x = x * 2; same
+x *= 2; // x = x * 2; same
 console.log(x);
 x += 10; // x = x + 10; same
 console.log(x);

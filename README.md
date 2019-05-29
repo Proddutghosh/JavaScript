@@ -1,2 +1,2 @@
 # JavaScript-Language-Basics
-Basics of JavaScript
+Basics of JavaScript. Beginner level.
